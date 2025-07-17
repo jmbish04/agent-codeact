@@ -1,0 +1,7 @@
+{
+  "name": "agent-codeact",
+  "main": "app/main.tsx",
+  "compatibility_date": "2025-07-12",
+  "assets": { "directory": "dist/client", "binding": "ASSETS" },
+  "vars": { "API_URL": "https://agent-worker.raf-wilinski.workers.dev" },
+}
